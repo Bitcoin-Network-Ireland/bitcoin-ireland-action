@@ -22,7 +22,7 @@ export const EmailTemplate: React.FC<EmailTemplateProps> = ({
           Email Template
         </CardTitle>
         <CardDescription>
-          Customize your message with brackets for dynamic fields like [Your Full Name], [Deputy NAME], etc.
+          Your message will be automatically personalized for each selected TD with their name and your information.
         </CardDescription>
       </CardHeader>
       <CardContent className="p-6 space-y-4">
