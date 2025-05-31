@@ -29,7 +29,7 @@ const Index = () => {
           </h2>
           <p className="text-lg text-slate-600 max-w-3xl mx-auto">
             Connect with your local TDs to discuss Bitcoin's importance for Ireland's future. 
-            Over 500,000 Irish citizens engage with Bitcoin - more than any single party's first-preference votes.
+            More than any single party's first-preference votes.
           </p>
         </div>
 
