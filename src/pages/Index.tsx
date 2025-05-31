@@ -1,4 +1,3 @@
-
 import { TDOutreachForm } from "@/components/TDOutreachForm";
 
 const Index = () => {
@@ -28,8 +27,7 @@ const Index = () => {
             Make Your Voice Heard on Bitcoin Policy
           </h2>
           <p className="text-lg text-slate-600 max-w-3xl mx-auto">
-            Connect with your local TDs to discuss Bitcoin's importance for Ireland's future. 
-            More than any single party's first-preference votes.
+            Connect with your local TDs to discuss Bitcoin's importance for Ireland's future.
           </p>
         </div>
 
